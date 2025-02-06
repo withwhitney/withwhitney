@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Welcome to my GitHub! I am Whitney, currently working as a civil engineer. However, I am enthusiastic to break into the tech industry, especially the field of data science!
+
+Here you will find some projects that I created using concepts that I learnt. Thank you very much for your time!
+##
+
 <!--
 **withwhitney/withwhitney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
